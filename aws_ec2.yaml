@@ -6,8 +6,8 @@ regions:
 
 filters:
   tag:Name:
-    - "kibana1"
-    - "kibana2"
+    - "kibana11"
+    - "kibana22"
 
 compose:
   ansible_host: private_ip_address
